@@ -1,0 +1,289 @@
+.Search-btn{
+    background-color: black;
+    border: none;
+    color: gray;
+}
+.img-3one-div{
+    border-radius: 50%;
+   height: 196px;
+    width: 60%;
+}
+.img-4one-div{
+     height: 196px;
+    width: 100%;
+}
+.btn-buyticket{
+     background-color: black;
+    border: none;
+    color: white;
+
+        padding: 10px 27px;
+}
+.soldout{
+     display: inline-block;
+     background-color: #e04e4e;
+    border: none;
+    color: white;
+    padding: 3px 5px;
+    border-radius: 2px;
+}
+   
+.tc{
+    text-align: center;
+}
+.navbar{
+    margin-bottom: 0;
+}
+
+.left-div{
+    margin-top: 15px;
+    float: left;
+    text-align: left;
+}
+.classrow{
+    background-color: black;
+
+        margin-top: 28px;
+}
+.tabcon{
+        width: 49%;
+    margin-left: 29%;
+}
+.img1{
+background-image: url(../img/2divbirdimg.jpg);
+}
+.right-div{
+    text-align: right;
+float: right;
+
+}
+.ip{
+    display: flex;
+   
+}
+.panel-body{
+padding: 0px;
+}
+
+.formmargin{
+     margin-top: 15px;
+}
+.right-div::after{
+     content: '';
+    display: block;
+    clear: both;
+}
+
+.container1{
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+}
+.left-ul{
+float: left;}
+.left-ul::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.third-div-img-block{
+    text-align: center;
+       margin-bottom: 20px;
+}
+
+.third-div-img-block p{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 13px;
+}
+
+
+.right-ul{
+    float: right;
+}
+
+
+
+
+.right-ul::after{
+ content: '';
+    display: block;
+    clear: both;
+}
+
+
+.secound-div-full-width{
+    width: 100%;
+}
+
+.h4white{
+    color: white;
+}
+.margin-space{
+    margin-bottom: 25px;
+}
+.spacing-class{
+letter-spacing: 15px;
+    }
+.textalignleftwhitecolor{
+    text-align: left;
+    background-color: white !important;
+}
+
+
+.panel-con{
+       padding-bottom: 25px;
+    text-align: center;
+    background-color: #3f3e3e;;
+}
+.panel-secound-row{
+   
+    background-color: #3f3e3e;;
+       
+}
+.marginb{
+    margin-bottom: 25px;
+}
+.panel-body-down-div{
+        margin-top: 23px;
+display: flex;
+}
+.panle-heading-inside-div{
+    background-color: white;
+    text-align: left;
+    padding:10px;
+    color: grey;
+    border-bottom: 1px solid grey;
+    
+}
+.panle-heading-inside-div h4{
+    display: inline;
+
+}
+
+.panle-heading-inside-div button{
+       
+    padding: 3px;
+}
+.whitebcolr{
+    background-color: white;
+}
+.marginlr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.spancounter{
+float: right;
+}
+.spancounter::after{
+float: right;
+}
+
+ .con1{
+    width: 54%;
+    height: 340px;
+}
+
+.con1 h5{
+        margin-bottom: 20px;
+}
+.tcen{
+    text-align: center;
+        margin-bottom: 50px;
+}
+.con2{
+   
+    background-image: url(../img/girlwithlaptop.jpg);
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head-panel{
+color: white;
+    
+}
+.con1 h3,h5{
+    text-align: left;
+    }
+.left-div-final{
+        float: left;
+        width: 30%;
+}
+.contacthed{
+    text-align: center !important;
+    margin-bottom: 25px;
+}
+
+.whitebcolr img{
+    width: 100%;
+}
+
+.right-div-final{
+        text-align: right;
+        width: 70%;
+    float: right;
+}
+.panel-body-down-div .col-sm-4{
+    padding-left: 0;
+    padding-right: 0;
+}
+    
+    .left-div-final:after{
+        display: block;
+        content: '';
+        clear: both;
+    }
+    
+    
+     .right-div-final:after{
+        display: block;
+        content: '';
+        clear: both;
+    }
+    
+    .right-div-final button{
+        background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 40px;
+        border-radius: 0;
+    }
+    
+    .ipfinal{
+display: inline-block;}
+   
+.alignright{
+     text-align: right;
+    }
+.marginbotomdroptable{
+    margin-bottom: 25px;
+
+}
+.contactlineheight{
+    line-height: 25px;
+}
+.last-div{
+   background-color: black;
+   padding: 50px 0;
+    color: white;
+    text-align: center;
+    width: 100%;
+
+   
+}
+.inner-panel-div{
+    padding: 20px;
+}
+.corosol-padding{
+        height: 200px;
+    padding-bottom: 36%;
+}
+.lspacing{
+    letter-spacing: 15px;
+}
+.last-div h5{
+    
+     display: inline-block;
+}

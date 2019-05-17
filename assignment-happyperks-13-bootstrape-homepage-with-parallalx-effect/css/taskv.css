@@ -1,0 +1,148 @@
+/*first-div*/
+
+/*navigation bar*/
+
+.right-ul{
+    float: right;
+    
+}
+.con1-nav ul li a{
+    color: white;
+}
+.right-ul button{
+    background-color: blue;
+    border-radius: 5%;
+    border: none;
+    color: white;
+    margin: 15px 0;
+}
+.right-ul::after{
+    display: block;
+    content: '';
+    clear: both;
+}
+.first-div{
+    font-weight: bold;
+     color: white;
+    background-image: url(../img/girlwithlaptop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+    width: 100%;
+}
+.con-first-div{
+        text-align: center;
+    padding: 93px 230px;
+
+}
+
+/*info-div*/
+.first-div-info{
+    text-align: center;
+    width: 500px;
+  
+}
+
+
+
+/*secound div*/
+
+.secound-div{
+    text-align: center;
+    margin: 50px 0;
+   }
+
+.con-sec-div{
+ padding: 0 230px;   
+}
+
+.secound-div img{
+    width: 100%;
+}
+.sec-inner-div{
+    text-align: left !important;
+}
+
+/*third-div*/
+
+.third-div{
+background-color: #fbf8f8;  
+}
+.con3{
+ 
+    padding: 50px 230px;
+       
+}
+
+.third-div-1col img{
+    object-fit:cover;
+     max-height: 470px;
+}
+.third-div-1col{
+    overflow: hidden;
+}
+.third-div-2col{
+    padding-left: 48px;
+}
+.third-div-2col h2{
+    margin-top: 1px;
+    margin-bottom: 25px;
+}
+.third-div-2col .h4contact{
+    margin-bottom: 83px;
+    margin-top: 40px;
+}
+
+.third-inner-light-div{
+margin-bottom: 75px;
+    }
+
+/*forth-div*/
+
+.forth-div{
+   background-image: url(../img/imageLaptop.jpg);   
+    background-repeat: no-repeat;
+        background-attachment: fixed;
+    background-size: cover;
+    color: white;
+     text-align: center;
+}
+
+.con4{
+ 
+    height: 250px;
+    padding: 60px 230px;
+   
+}
+
+
+/*fifth-div*/
+
+.h3-con-5{
+ text-align: center;
+}
+.con-fifth{
+     padding: 0 340px;
+    text-align: left;
+}
+.fifth-div img{
+       margin-top: 20px;
+       margin-bottom: 80px;
+    width: 490px;
+    height: 277px;
+}
+.mapcl{
+         height: 300px; 
+     width: 485px; 
+    margin-bottom: 30px;
+}
+
+/*sixth-div*/
+.sixth-div{
+    margin-top: 20px;
+ background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}

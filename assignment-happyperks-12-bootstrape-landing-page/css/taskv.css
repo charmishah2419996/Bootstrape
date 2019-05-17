@@ -1,0 +1,230 @@
+
+
+
+/*navigation bar*/
+.navbar{
+    margin-bottom: 0;
+    padding: 10px 250px;
+    
+}
+.navbar a{
+    color: white !important;
+}
+
+
+.left-ul{
+float: left;
+}
+.left-ul::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.left-ul a{
+    font-size: 3vh;
+    font-weight: bold;
+}
+
+.right-ul{
+    float: right;
+}
+.right-ul::after{
+ content: '';
+    display: block;
+    clear: both;
+}
+
+/*1divafter navigationbar*/
+
+.first-div-img{
+     height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.first-div{
+    width: 100%;
+    padding: 60px 0;
+    color: white;
+    background-color: greenyellow;
+    text-align: center;
+}
+.first-div-hr{
+    width: 45%;
+    border-color: white;
+}
+.divstart{
+  position: relative;
+    top: -33px;
+    font-size: 22px;
+    padding: 0 15px;
+    background: white;
+}
+.divstartfirst{
+  position: relative;
+       top: -33px;
+    font-size: 22px;
+    padding: 0 15px;
+    background: greenyellow;
+}
+.divstartabout{
+     position: relative;
+       top: -33px;
+    font-size: 22px;
+    padding: 0 15px;
+    background: #688776;
+}
+.first-div-hr-black{
+     width: 45%;
+    border-color: black;
+}
+.divstartcontact{
+     position: relative;
+       top: -33px;
+    font-size: 22px;
+    padding: 0 15px;
+    background: white;
+}
+.divstartcontactfinal{
+      position: relative;
+       top: -33px;
+    font-size: 22px;
+    padding: 0 15px;
+    background: white;
+        left: 331px;
+}
+
+.sec-div-hr{
+     width:"25%";
+    border-color: black;
+}
+
+/*secound div*/
+
+.secound-div{
+ text-align: center;
+}
+.secound-div img{
+height: 170px;
+width: 220px;
+}
+
+.secound-div .col-lg-4{
+    margin-bottom: 25px;
+}
+
+
+/*third div*/
+.third-div{
+    padding: 40px 0;
+    color: white;
+    text-align: center;
+    background-color: #688776;
+}
+.third-div button{
+    padding: 10px 15px;
+    background-color:#688776;
+    border: 1px solid white;
+    border-radius: 5%;
+    
+}
+.third-div h2{
+    margin-bottom: 10px;
+}
+.third-div button{
+    margin-top: 15px;
+ 
+}
+.third-div p{
+    text-align: left !important;
+}
+
+/*fourth div*/
+
+.fourth-div h2{
+text-align: center;
+}
+
+.fourth-div .nm{
+    border-bottom: 1px solid #d1caca !important;
+    border-top:none !important;
+    padding: 26px 10px;
+    border-left: none;
+    border-right: none;
+
+}
+.line-cen{
+text-align: center;
+}
+.fourth-div .form-control{
+   
+     border-radius: 0 !important; 
+     -webkit-box-shadow:none !important; 
+     box-shadow:none !important;
+   
+}
+.fourth-div .em{
+     border-bottom: 1px solid #fbf7f7 !important;
+    border-top:none !important;
+    padding: 26px 10px;
+    border-left: none;
+    border-right: none;
+}
+.fourth-div .msg{
+    border-bottom: 1px solid #fbf7f7 !important;
+    border-top:none !important;
+    padding-top: 26px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 66px;
+    border-left: none;
+    border-right: none;
+}
+.fourth-div button{
+    background-color: #688776;
+    border: none;
+    padding: 10px;
+    border-radius: 2%;
+    color: white;
+}
+
+/*fifthdiv*/
+
+.fifth-div{
+background-color: black;
+color: white;
+        padding: 35px 0;
+}
+.symbol-group{
+ display: flex;
+}
+
+.eachsymbol{
+    text-align: center;
+  height: 25px;
+    width: 25px;
+    margin: 7px;
+    border-radius: 50%;
+    border: 1px solid white;
+    
+}
+.fifth-div a{
+    text-decoration: none;
+    color: aqua;
+}
+
+
+
+
+/*6ixthdiv*/
+.sixth-div{
+  background-color: dimgray;
+    text-align: center;
+    color: white;
+}
+
+.conpadding{
+    padding: 10px 230px;
+}
+
+   
